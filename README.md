@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B23F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Renan+Zanollo" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B23F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Renan+Zanollo+Amorim" alt="Typing SVG" /></a></h3>
 <h3 align="center">Enthusiast and passionate about programming languages</h3>
 <section>
   <div>
@@ -10,7 +10,6 @@ I'm working as a satellite programmer in the aerospace and astronomy field, focu
 I'm the newest employee at Huawei.
   </div>
 </section>
-<br></br>
 <br></br>
 <br></br>
 
