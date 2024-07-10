@@ -1,17 +1,20 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B23F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Renan+Zanollo" alt="Typing SVG" /></a></h3>
 <h3 align="center">Enthusiast and passionate about programming languages</h3>
-
-<section align="ridht">  
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/426bedb0ee5d852161ef44685c0b6cb3.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-</section>  
-
-<section align="left">  
-Im 19 years old, studied Computer Engineering and currently pursuing a degree in Systems Analysis and Development (ADS) at FACENS (Faculdade de Engenharia de Sorocaba).
+<section>
+  <div>
+            <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/426bedb0ee5d852161ef44685c0b6cb3.gif" width="300" height="300" border="0" padding-right= "400px" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"> </a>
+            
+<p align="left">Im 19 years old, studied Computer Engineering and currently pursuing a degree in Systems Analysis and Development (ADS) at FACENS (Faculdade de Engenharia de Sorocaba).
 I have knowledge in HTML, CSS, Java, C++, Python, SQL, NoSQL, and AWS, and advanced English.
 I'm working as a satellite programmer in the aerospace and astronomy field, focusing on nano satellite and solid rocket propulsion competitions.
 I'm the newest employee at Huawei.
-</section>  
+  </div>
+</section>
+<br></br>
+<br></br>
+<br></br>
 
+<h1> Github Status </h1>  
 <div>
   <a href="https://renanzanollo.github.io/"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanZanollo&show_icons=true&theme=transparent"/>
