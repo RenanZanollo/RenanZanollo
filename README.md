@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Renan Zanollo</h1>
 <h3 align="center">Enthusiast and passionate about programming languages</h3>
 
-- 🔭 I’m currently working on **Save Coin**
-
-- 🌱 I’m currently learning **Java, Python and SQL**
-
-- 🤝 I’m looking for help with **Front-end**
-
-- 💬 Ask me about **C++, Java, Python, SQL, HTML e CSS**
-
-- 📫 How to reach me **renanzamorim008@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/renan-zanollo](www.linkedin.com/in/renan-zanollo)
+<div>  
+<p align="left"> Im 19 years old, studied Computer Engineering and currently pursuing a degree in Systems Analysis and Development (ADS) at FACENS (Faculdade de Engenharia de Sorocaba).</p>
+<p align="left">I have knowledge in HTML, CSS, Java, C++, Python, SQL, NoSQL, and AWS, and advanced English. </p>
+<p align="left">I'm working as a satellite programmer in the aerospace and astronomy field, focusing on nano satellite and solid rocket propulsion competitions.</p>
+<p align="left">I'm the newest employee at Huawei.</p>
+</div>  
 
 <div>
   <a href="https://renanzanollo.github.io/"></a>
@@ -25,8 +20,8 @@
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/renan-zanollo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto: renanzamorim008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style-for-the-badge&logo=gmail&logoColor-white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renan-zanollo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo=linkedin&logoColor=#6495ED" target="_blank"></a>
+<a href="mailto: renanzamorim008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style-for-the-badge&logo=gmail&logoColor-#6495ED" target="_blank"></a>
 </p>
 </div>
 
