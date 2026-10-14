@@ -9,7 +9,7 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas | Cursando Engenharia de Software
 
-💼 Estagiário de Desenvolvimento RPA com experiência em automação, APIs, IA e aplicações web
+💼 Estagiário de Desenvolvimento Web com experiência em automação, APIs, IA e aplicações web
 
 📚 Em busca de oportunidades de Estágio, Trainee e Desenvolvedor Júnior
 
