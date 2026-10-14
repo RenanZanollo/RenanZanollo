@@ -5,7 +5,7 @@
             <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/426bedb0ee5d852161ef44685c0b6cb3.gif" width="300" height="300" border="0" padding-right= "400px" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"> </a>
             
 <p align="left">
- 🚀 Desenvolvedor de Software | Python • FastAPI • React • Docker
+ 🚀 Desenvolvedor de Software | React • Node • Mongo • Docker
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas | Cursando Engenharia de Software
 
@@ -13,7 +13,7 @@
 
 📚 Em busca de oportunidades de Estágio, Trainee e Desenvolvedor Júnior
 
-🔧 Python • FastAPI • React • Docker • PostgreSQL • AWS • Selenium • Pandas
+🔧 Python • FastAPI • React • Docker • Mongo • AWS • Selenium • Node
   </div>
 </section>
 
