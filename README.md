@@ -5,7 +5,7 @@
             <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/426bedb0ee5d852161ef44685c0b6cb3.gif" width="300" height="300" border="0" padding-right= "400px" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"> </a>
             
 <p align="left">
- 🚀 Desenvolvedor de Software | React • Node • Mongo • Docker
+ 🚀 Desenvolvedor Web | React • Node • Mongo • Docker
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas | Cursando Engenharia de Software
 
